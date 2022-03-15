@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53f38819.chunk.css",
+    "main.js": "/static/js/main.a8cc19a9.chunk.js",
+    "main.js.map": "/static/js/main.a8cc19a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
+    "static/js/2.ab5c3178.chunk.js": "/static/js/2.ab5c3178.chunk.js",
+    "static/js/2.ab5c3178.chunk.js.map": "/static/js/2.ab5c3178.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.53f38819.chunk.css.map": "/static/css/main.53f38819.chunk.css.map",
+    "static/js/2.ab5c3178.chunk.js.LICENSE.txt": "/static/js/2.ab5c3178.chunk.js.LICENSE.txt",
+    "static/media/about.4ff4a506.gif": "/static/media/about.4ff4a506.gif",
+    "static/media/blog.86a41f74.gif": "/static/media/blog.86a41f74.gif",
+    "static/media/devto.svg": "/static/media/devto.45f37ff3.svg",
+    "static/media/github.svg": "/static/media/github.6e6dcfe1.svg",
+    "static/media/instagram.svg": "/static/media/instagram.d4ccbe36.svg",
+    "static/media/leetcode.svg": "/static/media/leetcode.cfd74069.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.b4280576.svg",
+    "static/media/skills.ccccb718.gif": "/static/media/skills.ccccb718.gif",
+    "static/media/twitter.svg": "/static/media/twitter.11e37bf9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f027f2bf.js",
+    "static/js/2.ab5c3178.chunk.js",
+    "static/css/main.53f38819.chunk.css",
+    "static/js/main.a8cc19a9.chunk.js"
+  ]
+}
