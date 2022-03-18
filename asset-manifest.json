@@ -1,29 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.53f38819.chunk.css",
-    "main.js": "/static/js/main.a8cc19a9.chunk.js",
-    "main.js.map": "/static/js/main.a8cc19a9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
-    "static/js/2.ab5c3178.chunk.js": "/static/js/2.ab5c3178.chunk.js",
-    "static/js/2.ab5c3178.chunk.js.map": "/static/js/2.ab5c3178.chunk.js.map",
+    "main.css": "/static/css/main.9be434ae.css",
+    "main.js": "/static/js/main.7c0ce5dc.js",
+    "static/media/skills.gif": "/static/media/skills.ccccb7183b08f9c5cd71.gif",
+    "static/media/about.gif": "/static/media/about.4ff4a5061a67b4b47d48.gif",
+    "static/media/blog.gif": "/static/media/blog.86a41f7401663f7974fe.gif",
+    "static/media/github.png": "/static/media/github.9ac36042fb12a0818b18.png",
+    "static/media/leetcode.png": "/static/media/leetcode.0b9570b180a1831a16e8.png",
+    "static/media/twitter.png": "/static/media/twitter.b711ad28fa1f705789f3.png",
+    "static/media/instagram.png": "/static/media/instagram.fe3ec2a7a841336ef577.png",
+    "static/media/linkedin.png": "/static/media/linkedin.ea5afee232c0aaadb223.png",
     "index.html": "/index.html",
-    "static/css/main.53f38819.chunk.css.map": "/static/css/main.53f38819.chunk.css.map",
-    "static/js/2.ab5c3178.chunk.js.LICENSE.txt": "/static/js/2.ab5c3178.chunk.js.LICENSE.txt",
-    "static/media/about.4ff4a506.gif": "/static/media/about.4ff4a506.gif",
-    "static/media/blog.86a41f74.gif": "/static/media/blog.86a41f74.gif",
-    "static/media/devto.svg": "/static/media/devto.45f37ff3.svg",
-    "static/media/github.svg": "/static/media/github.6e6dcfe1.svg",
-    "static/media/instagram.svg": "/static/media/instagram.d4ccbe36.svg",
-    "static/media/leetcode.svg": "/static/media/leetcode.cfd74069.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.b4280576.svg",
-    "static/media/skills.ccccb718.gif": "/static/media/skills.ccccb718.gif",
-    "static/media/twitter.svg": "/static/media/twitter.11e37bf9.svg"
+    "main.9be434ae.css.map": "/static/css/main.9be434ae.css.map",
+    "main.7c0ce5dc.js.map": "/static/js/main.7c0ce5dc.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f027f2bf.js",
-    "static/js/2.ab5c3178.chunk.js",
-    "static/css/main.53f38819.chunk.css",
-    "static/js/main.a8cc19a9.chunk.js"
+    "static/css/main.9be434ae.css",
+    "static/js/main.7c0ce5dc.js"
   ]
 }
