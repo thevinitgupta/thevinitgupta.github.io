@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5909f4f9.css",
-    "main.js": "/static/js/main.dfd04f12.js",
+    "main.css": "/static/css/main.fad6b2bc.css",
+    "main.js": "/static/js/main.9b5ad691.js",
     "static/media/skills.gif": "/static/media/skills.ccccb7183b08f9c5cd71.gif",
+    "static/media/moviefling.png": "/static/media/moviefling.c0eed2c7ec117b0ada67.png",
     "static/media/about.gif": "/static/media/about.4ff4a5061a67b4b47d48.gif",
     "static/media/blog.gif": "/static/media/blog.86a41f7401663f7974fe.gif",
+    "static/media/typr.png": "/static/media/typr.0b451b42f2536b9c2132.png",
+    "static/media/souviktalks.png": "/static/media/souviktalks.a9826b17dc73c318623c.png",
     "static/media/github.png": "/static/media/github.9ac36042fb12a0818b18.png",
     "static/media/leetcode.png": "/static/media/leetcode.0b9570b180a1831a16e8.png",
     "static/media/twitter.png": "/static/media/twitter.b711ad28fa1f705789f3.png",
     "static/media/instagram.png": "/static/media/instagram.fe3ec2a7a841336ef577.png",
     "static/media/linkedin.png": "/static/media/linkedin.ea5afee232c0aaadb223.png",
     "index.html": "/index.html",
-    "main.5909f4f9.css.map": "/static/css/main.5909f4f9.css.map",
-    "main.dfd04f12.js.map": "/static/js/main.dfd04f12.js.map"
+    "main.fad6b2bc.css.map": "/static/css/main.fad6b2bc.css.map",
+    "main.9b5ad691.js.map": "/static/js/main.9b5ad691.js.map"
   },
   "entrypoints": [
-    "static/css/main.5909f4f9.css",
-    "static/js/main.dfd04f12.js"
+    "static/css/main.fad6b2bc.css",
+    "static/js/main.9b5ad691.js"
   ]
 }
