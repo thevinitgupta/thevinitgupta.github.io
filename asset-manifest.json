@@ -1,11 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.fad6b2bc.css",
-    "main.js": "/static/js/main.9b5ad691.js",
-    "static/media/skills.gif": "/static/media/skills.ccccb7183b08f9c5cd71.gif",
+    "main.css": "/static/css/main.eee3843c.css",
+    "main.js": "/static/js/main.1f0ac586.js",
     "static/media/moviefling.png": "/static/media/moviefling.c0eed2c7ec117b0ada67.png",
-    "static/media/about.gif": "/static/media/about.4ff4a5061a67b4b47d48.gif",
-    "static/media/blog.gif": "/static/media/blog.86a41f7401663f7974fe.gif",
     "static/media/typr.png": "/static/media/typr.0b451b42f2536b9c2132.png",
     "static/media/souviktalks.png": "/static/media/souviktalks.a9826b17dc73c318623c.png",
     "static/media/github.png": "/static/media/github.9ac36042fb12a0818b18.png",
@@ -14,11 +11,11 @@
     "static/media/instagram.png": "/static/media/instagram.fe3ec2a7a841336ef577.png",
     "static/media/linkedin.png": "/static/media/linkedin.ea5afee232c0aaadb223.png",
     "index.html": "/index.html",
-    "main.fad6b2bc.css.map": "/static/css/main.fad6b2bc.css.map",
-    "main.9b5ad691.js.map": "/static/js/main.9b5ad691.js.map"
+    "main.eee3843c.css.map": "/static/css/main.eee3843c.css.map",
+    "main.1f0ac586.js.map": "/static/js/main.1f0ac586.js.map"
   },
   "entrypoints": [
-    "static/css/main.fad6b2bc.css",
-    "static/js/main.9b5ad691.js"
+    "static/css/main.eee3843c.css",
+    "static/js/main.1f0ac586.js"
   ]
 }
